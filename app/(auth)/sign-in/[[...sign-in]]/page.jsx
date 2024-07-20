@@ -33,8 +33,10 @@ export default function Page() {
         </h2>
 
         <p className="mt-4 leading-relaxed text-white/90">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nam dolorum aliquam,
-          quibusdam aperiam voluptatum.
+          Welcome to AI Mock Interview, your ultimate tool for mastering software engineering and development interviews.
+          Our app provides realistic, AI-driven mock interviews that help you sharpen your skills, boost your confidence, and land your dream job. 
+          Whether you're a seasoned developer or just starting out, AI Mock Interview offers personalized feedback and insights to ensure you're always interview-ready. 
+          Prepare with us and step into your next interview with confidence.
         </p>
       </div>
     </section>
@@ -63,12 +65,14 @@ export default function Page() {
           </a>
 
           <h1 className="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl">
-            Welcome to Squid 🦑
+           Welcome to AI Interview Mocker 🦑
           </h1>
 
           <p className="mt-4 leading-relaxed text-gray-500">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nam dolorum aliquam,
-            quibusdam aperiam voluptatum.
+          Welcome to AI Mock Interview, your ultimate tool for mastering software engineering and development interviews.
+          Our app provides realistic, AI-driven mock interviews that help you sharpen your skills, boost your confidence, and land your dream job. 
+          Whether you're a seasoned developer or just starting out, AI Mock Interview offers personalized feedback and insights to ensure you're always interview-ready. 
+          Prepare with us and step into your next interview with confidence.
           </p>
         </div>
 
