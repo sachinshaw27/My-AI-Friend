@@ -66,6 +66,7 @@ function AddNewInterview() {
             createdBy: user?.primaryEmailAddress?.emailAddress,
             createdAt: moment().format('DD-MM-YYYY'),
           }).returning({ mockId: MockInterview.mockId });
+          console.log("mockid: ",res)
           setLoading(false);
           router.push(`dashboard/interview/${res[0]?.mockId}`);
       } else {
